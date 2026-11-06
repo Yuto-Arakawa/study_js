@@ -1,0 +1,18 @@
+html{
+    font-size: 62.5%;
+}
+
+header{
+    padding: 1rem;
+    border-bottom: solid 1px #999;
+    font-size: 8px;
+}
+
+main{
+    padding: 20px;
+}
+
+.reference{
+    height: 200px;
+    background-color: #e3e3e3;
+}
